@@ -38,7 +38,7 @@ Browse our [repositories](https://github.com/DevPeak-Innovations-Open-Source) to
 git clone https://github.com/DevPeak-Innovations-Open-Source/<repository-name>.git
 ```
 -->
-### 2️⃣ 2️⃣ **Clone and Contribute** 
+### 2️⃣ **Clone and Contribute** 
 Fork a project, make improvements, and submit a pull request! Check out our [Contributing Guide](CONTRIBUTING.md) for detailed instructions.
 
 ### 3️⃣ **Stay Updated**
